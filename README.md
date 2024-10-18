@@ -1,4 +1,4 @@
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPontess&theme=material-palenight&show_icons=true)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPontess\&include_all_commits=true)
 
 <!--
 **PedroPontess/PedroPontess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
