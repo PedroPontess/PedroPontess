@@ -9,7 +9,8 @@
 <div>
   
 ## About:
-Welcome to my GitHub! I'm passionate about exploring data, building models, and uncovering insights that drive real-world impact. Here, you'll find projects covering machine learning, deep learning, data visualization, and more.
+Hello I'm Pedro! 
+I'm passionate about exploring data, building models, and uncovering insights that drive real-world impact. Here, you'll find projects covering machine learning, deep learning, computer vision, data visualization, and more.
 
 
 
