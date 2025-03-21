@@ -6,7 +6,7 @@
 <!--
 **PedroPontess/PedroPontess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<div align="center">
+<div>
   
 ## About
 Welcome to my GitHub! I'm passionate about exploring data, building models, and uncovering insights that drive real-world impact. Here, you'll find projects covering machine learning, deep learning, data visualization, and more.
