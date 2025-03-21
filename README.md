@@ -8,13 +8,13 @@
 
 <div>
   
-## About:
-**Hello I'm Pedro!** <br> <br>
+## 💫 About:
+**👋 Hello I'm Pedro!** <br> <br>
 I'm passionate about exploring data, building models, and uncovering insights that drive real-world impact. Here, you'll find projects covering machine learning, deep learning, computer vision, data visualization, and more.
 
 
 
-## Contact:
+## 📨 Contact:
 <a href="https://www.linkedin.com/in/pedro-antunes-pontes-/?locale=en_US">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 
 
