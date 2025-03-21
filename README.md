@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm passionate about exploring data, building models, and 
 -------------------
 
 ## Contact
-<a href="[https://www.instagram.com/LachlanDev/](https://www.linkedin.com/in/pedro-antunes-pontes-/?locale=en_US)">![LinkedIn]https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white))</a>
+<a href="https://www.linkedin.com/in/pedro-antunes-pontes-/?locale=en_US">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white))</a>
 
 -------------------
 
