@@ -6,14 +6,16 @@
 <!--
 **PedroPontess/PedroPontess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  
+## About
+Welcome to my GitHub! I'm passionate about exploring data, building models, and uncovering insights that drive real-world impact. Here, you'll find projects covering machine learning, deep learning, data visualization, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------------
+
+## Contact
+<a href="[https://www.instagram.com/LachlanDev/](https://www.linkedin.com/in/pedro-antunes-pontes-/?locale=en_US)">![LinkedIn]https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white))</a>
+
+-------------------
+
+### Languages and Tools 
