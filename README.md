@@ -10,8 +10,7 @@
   
 # 💫 About:
 **👋 Hello I'm Pedro!** <br> <br>
-I'm passionate about exploring data, building models, and uncovering insights that drive real-world impact. Here, you'll find projects covering machine learning, deep learning, computer vision, data visualization, and more.
-
+AI & Machine Learning Engineer. I build practical applications, such as DB-querying Agents and Recommendation Systems (FAISS/Transformers). I leverage strong Data Science fundamentals to engineer robust AI infrastructure and scalable models.
 
 
 # 📨 Contact:
