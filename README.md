@@ -10,7 +10,19 @@
   
 # 💫 About:
 **👋 Hello I'm Pedro!** <br> <br>
-AI & Machine Learning Engineer. I build practical applications, such as DB-querying Agents and Recommendation Systems (FAISS/Transformers). I leverage strong Data Science fundamentals to engineer robust AI infrastructure and scalable models.
+AI & Machine Learning Engineer. I leverage strong Data Science fundamentals to engineer robust AI infrastructure and scalable models. My focus is on moving beyond notebooks to build practical, production-ready applications.
+
+### 🧠 What I Build
+* **RAG Systems:** Enterprise-grade document assistants using **Qdrant** for persistent vector storage and LLMs (Llama 3).
+* **AI Agents (Text-to-SQL):** Autonomous business assistants that translate natural language into complex SQL queries for instant analytics.
+* **Recommendation Systems:** Scalable semantic search and item-to-item recommendation engines using **FAISS** and Transformers.
+
+### 🛠️ Tech Stack
+* **Languages:** Python, SQL.
+* **AI Frameworks:** LangChain, PyTorch, HuggingFace.
+* **Vector Tech:** Qdrant (Database), FAISS (Library).
+* **Infrastructure:** Docker, Docker Compose, Git.
+* **Tools:** Streamlit, uv.
 
 
 # 📨 Contact:
